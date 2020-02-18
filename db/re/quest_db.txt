@@ -3062,6 +3062,12 @@
 // Banquet Quests
 12369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Secret Business Relation"
 
+// Sky Fortress Invasion memorial
+9418,0,3473,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Attack Sky Fortress Invading Prontera"
+// TO DO implement another way for delay: delay reseted after 3 days max at 12:00 hour (2 days at 12:00 hour)
+9419,259200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Attack Sky Fortress Invading Prontera"
+9427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Clearing the Sky Fortress for the Same Time"
+
 // Rockridge
 12381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"New Continent's Food Supplier"
 12382,4:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Distributing Food"
